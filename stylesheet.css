@@ -1,0 +1,22 @@
+html{
+    background-color: #FFEBEB;
+}
+
+h1{
+    color:#FFF8DE;
+    background-color: #025464;
+    text-align: center;
+}
+
+#hr1{
+    color:#73A9AD;
+    text-align:center;
+}
+
+img[src]{
+    width: 200px;
+    height: 250px;
+}
+
+/* For Spidy Page*/
+

@@ -1,0 +1,20 @@
+html{
+    background-color: #FFE194;
+}
+
+#h3{
+    color:#FFE194;
+    text-align: center;
+    background-color: #CE5959;
+}
+
+#p2{
+    text-align: center;
+    font-size: 30px;
+    font-family: Bungee Spice;
+}
+
+img[src="../Images/Iron-man1.webp"]{
+    height: 400px;
+    width: 792px
+}
